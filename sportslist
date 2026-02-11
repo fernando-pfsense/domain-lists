@@ -6,7 +6,7 @@
 #===============================================================
 
 espn.com
-*.nfl.com
+nfl.com
 nba.com
 mlb.com
 nhl.com
@@ -14,5 +14,5 @@ fifa.com
 skysports.com
 beinsports.com
 foxsports.com
-*.dazn.com
+dazn.com
 paramountplus.com
